@@ -1,0 +1,6 @@
+{
+	"name": "poc-ir",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
