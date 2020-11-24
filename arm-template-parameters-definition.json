@@ -9,20 +9,7 @@
         },
         "location": "="
     },
-    "Microsoft.DataFactory/pipelines": {
-        "properties": {
-            "activities": [
-                {
-                               "name": "="
-                }
-            ],
-            "parameters": {
-                "*": {
-                    "defaultValue": "="
-                }
-            }
-        }
-    },
+  
     "Microsoft.DataFactory/factories/integrationRuntimes": {
         "properties": {
             "typeProperties": {
