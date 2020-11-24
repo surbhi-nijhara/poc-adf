@@ -1,15 +1,7 @@
 {
     "Microsoft.DataFactory/factories": {
-        "properties": {
-            "globalParameters": {
-                "*": {
-                    "value": "="
-                }
-            }
-        },
-        "location": "="
+       
     },
-  
     "Microsoft.DataFactory/factories/integrationRuntimes": {
         "properties": {
             "typeProperties": {
